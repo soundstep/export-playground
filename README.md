@@ -47,7 +47,7 @@ Publish dir for symlinks (monorepo):
 
 ```
 "publishConfig": {
-    "dir": "dist"
+    "directory": "dist"
 },
 ```
 
