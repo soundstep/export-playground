@@ -10,7 +10,7 @@
         "./deep/ads": "./cjs/deep/ads/index.js"
     },
     "publishConfig": {
-        "dir": "dist"
+        "directory": "dist"
     },
     "sideEffects": "false",
     "scripts": {
